@@ -85,8 +85,8 @@ The QR code is saved as an image file (default: `qr_code.png`).
 ### **Ví dụ minh họa / Example**
 #### **Input (Vietnamese/English):**
 ```plaintext
-🔗 Nhập dữ liệu (URL hoặc văn bản) để tạo mã QR: https://www.example.com
-🎨 Nhập màu mã QR: blue
+🔗 Nhập dữ liệu (URL hoặc văn bản) để tạo mã QR: https://www.facebook.com/NHL2K5
+🎨 Nhập màu mã QR: black
 🎨 Nhập màu nền mã QR: white
 🖼️ Nhập đường dẫn tới file logo: logo.png
 📏 Nhập kích cỡ ô vuông: 15
